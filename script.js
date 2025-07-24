@@ -6,7 +6,7 @@ function highlight() {
     boldElements.forEach(function(element) {
         element.style.color = 'rgb(0, 128, 0)';
     });
-}
+
 
 }
 
